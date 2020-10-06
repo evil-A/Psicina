@@ -1,0 +1,5 @@
+Credentials cache: API:B21195A3-A81F-4A01-B8E3-C98D5E0F3C57
+        Principal: evila-ro@42MADRID.COM
+
+  Issued                Expires               Principal
+Sep  2 18:49:09 2019  Sep  3 04:49:09 2019  krbtgt/42MADRID.COM@42MADRID.COM

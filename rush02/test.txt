@@ -1,0 +1,13 @@
+0: nul
+1: adin
+2: dva
+3: tri
+4: chitirie
+5: pyat
+6: sest
+7: siem
+8: vozym
+9: dievit
+10: diesit
+11: adinadsat
+12: dvanadsat

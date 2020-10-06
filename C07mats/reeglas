@@ -1,0 +1,4 @@
+declarar puntero: tipo *
+uso: nombre - direccion 
+	*nombre - contenido
+
